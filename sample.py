@@ -1,6 +1,6 @@
 # This program prints Hello, world!
 
-print('HAI ')
+print('HAI HAI ')
 print('S')
 print('A')
 print('T')
